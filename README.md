@@ -4,6 +4,10 @@ v0.1 (Game version), 19.05.2020 (upload of this readme)
 ## Early development stage
 This game is far from being finished and has many bugs, bad gamedesign decisions and missing features which will be fixed or added in the future
 
+## Motivation
+I'm pretty new to game development but want to get some motivation to continue this project and improve my skills.
+For this reason I decided to upload my game on github and make it open for feedback.
+
 ## Description
 Taxi Survival Game is a game where the player drives a taxi from point to point to get a score. While the AI drives fast and aggressive through the streets to simulate a world of pure aggressive driving.
 
